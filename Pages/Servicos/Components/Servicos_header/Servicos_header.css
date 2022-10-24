@@ -1,0 +1,64 @@
+.Servicos_header{
+    position: relative;
+    width: 100%;
+    height: 15vh;
+    background-color: #FAFAFA;
+    border-bottom: 0.1vh solid #B0B0B0;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.Servicos_logo_header{
+    position: relative;
+    width: 10%;
+    height: 9vh;
+    margin-top: 4vh;
+}
+.Servicos_nav_header{
+    position: relative;
+    width: 40%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    font-size: 1.2rem;
+    font-weight: 400;
+    color: #4E5262;
+    font-family: 'Roboto', sans-serif;
+}
+.Servicos_link_colorido{
+    position: relative;
+    width: 18%;
+    padding: 0 1vw 0 1vw;
+    height: 15vh;
+    background-color: rgba(132, 156, 255, 0.16);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.Servicos_link_colorido a{
+    color: #415DCC;
+}
+.Servicos_link{
+    position: relative;
+    width: 35%;
+    height: 15vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.Servicos_link a{
+    color: #4E5262;
+}
+.Servicos_link a:hover{
+    color: #415DCC;
+}
+.Servicos_link:hover{
+    background-color: rgba(132, 156, 255, 0.16);
+    padding: 0 1vw 0 1vw;
+}
+.Servicos_perfil_header{
+    position: relative;
+    width: 7%;
+    height: 9vh;
+    margin-top: 3vh;
+}

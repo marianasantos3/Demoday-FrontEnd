@@ -1,0 +1,8 @@
+.Quem_somos{
+    position: relative;
+    width: 100%;
+    height: auto;
+    background-image: url(Images/Quem_somos_fundo.svg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}

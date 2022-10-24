@@ -1,0 +1,44 @@
+.Footer{
+    position: relative;
+    width: 100%;
+    height: 50.2vh;
+    background-image: url(../../Components/Footer/Images/footer.svg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin-top: 10vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.Footer_sociais{
+    position: relative;
+    width: 20%;
+    height: 8vh;
+    margin-top: 30vh;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.Footer_sociais img{
+    width: 12%;
+    height: 8vh;
+}
+.Footer_sociais img:hover{
+    -webkit-transform: scale(1.1);
+    transform: scale(1.1);
+}
+
+.Footer_informacoes{
+    position: relative;
+    width: 37%;
+    height: 5vh;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+    font-size: 1.2rem;
+    color: #FFFFFF;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-top: 4vh;
+}

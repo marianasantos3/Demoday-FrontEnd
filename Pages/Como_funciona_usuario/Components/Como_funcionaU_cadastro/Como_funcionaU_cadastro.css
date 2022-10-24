@@ -1,0 +1,53 @@
+.Como_funcionaU_cadastro{
+    position: relative;
+    width: 85%;
+    height: auto;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin: auto;
+    margin-top: 25vh;
+}
+.Como_funcionaU_cadastro img{
+    position: relative;
+    width: 32%;
+}
+.Como_funcionaU_cadastro_align{
+    position: relative;
+    width: 60%;
+    height: 25vh;
+    /*border: 1px solid black;*/
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    margin-top: 14vh;
+    margin-left: 10vw;
+}
+.Como_funcionaU_cadastro_titulo{
+    font-size: 1.7rem;
+    font-family: 'Inter', sans-serif;
+    font-weight: 600;
+    color: #010038;
+}
+.Como_funcionaU_cadastro_text{
+    font-size: 1.3rem;
+    font-family: 'Inter', sans-serif;
+    font-weight: 400;
+    color:  #545454;
+}
+.Como_funcionaU_cadastro_button{
+    position: relative;
+    width: 25%;
+    height: 6vh;
+    background-color: #415DCC;
+    border-radius: 0.9vw;
+    font-family: 'Roboto',sans-serif;
+    font-weight: 500;
+    font-size: 1rem;
+    color: #F5F5F5;
+}
+.Como_funcionaU_cadastro_button:hover{
+    box-shadow: 3px 3px 2px #4C67D4;
+    cursor: pointer;
+    transform: translateY(-3px);
+}

@@ -1,0 +1,66 @@
+.Como_funcionaU_escolha{
+    position: relative;
+    width: 92%;
+    height: auto;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin: auto;
+    margin-top: 8vh;
+    padding-left: 1.5vw;
+}
+.Como_funcionaU_escolha_align{
+    position: relative;
+    width: 82%;
+    height: 38vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    margin-top: 8vh;
+}
+.Como_funcionaU_escolha_titulo{
+    font-size: 1.7rem;
+    font-family: 'Inter', sans-serif;
+    font-weight: 600;
+    color: #0F3AE4;
+}
+.Como_funcionaU_escolha_li{
+    color: #0F3AE4;
+    margin-left: 1.4vw;
+    margin-top: 2.5vh;
+    line-height: 30px;
+}
+.Como_funcionaU_escolha_li2{
+    color: #0F3AE4;
+    margin-left: 8vw;
+    margin-top: 6vh;
+}
+.Como_funcionaU_escolha_li3{
+    color: #0F3AE4;
+    margin-left: 16vw;
+    margin-top: 6vh;
+}
+.Como_funcionaU_escolha_li p{
+    font-size: 1.3rem;
+    font-family: 'Inter', sans-serif;
+    font-weight: 400;
+    color:  #fff;
+}
+.Como_funcionaU_escolha_li2 p{
+    font-size: 1.3rem;
+    font-family: 'Inter', sans-serif;
+    font-weight: 400;
+    color:  #fff;
+}
+.Como_funcionaU_escolha_li3 p{
+    width: 100%;
+    font-size: 1.3rem;
+    font-family: 'Inter', sans-serif;
+    font-weight: 400;
+    color:  #fff;
+    line-height: 30px;
+}
+.Como_funcionaU_escolha_img{
+    width: 32%;
+    height: 50vh;
+}
