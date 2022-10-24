@@ -1,0 +1,8 @@
+.Como_funciona_usuario{
+    position: relative;
+    width: 100%;
+    height: auto;
+    background-image: url(Images/Como_funciona_usuario_fundo.svg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}

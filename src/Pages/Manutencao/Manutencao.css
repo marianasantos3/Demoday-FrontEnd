@@ -1,0 +1,22 @@
+.Manutencao_align{
+    position: relative;
+    width: 90%;
+    height: 50vh;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    font-family: 'Inter', sans-serif;
+    font-weight: 700;
+    font-size: 2rem;
+    color: #415DCC;
+    text-align: center;
+    margin: auto;
+    margin-top: 15vh;
+}
+.Manutencao_align img{
+    width: 60%;
+}
+.Manutencao_align p{
+    
+    margin-top: 20vh;
+}

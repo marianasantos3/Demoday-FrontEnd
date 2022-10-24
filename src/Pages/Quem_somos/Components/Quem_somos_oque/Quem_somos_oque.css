@@ -1,0 +1,40 @@
+.Quem_somos_oque{
+    position: relative;
+    width: 100%;
+    /*border: 1px solid black;*/
+}
+.Quem_somos_oque_titulo{
+    position: relative;
+    width: 100%;
+    text-align: center;
+    font-family: 'Inter',sans-serif;
+    font-weight: 550;
+    font-size: 3rem;
+    color: #0F3AE4;
+    text-shadow: 4px 4px 4px rgba(0, 0, 0, 0.25);
+    margin-top: 14vh;
+}
+.Quem_somos_oque_align{
+    position: relative;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.Quem_somos_oque_text{
+    position: relative;
+    width: 55%;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+    font-size: 1.8rem;
+    color: #fff;
+    text-align: justify;
+    line-height: 50px;
+    margin-top: 28vh;
+    margin-left: 9.4vw;
+}
+.Quem_somos_oque_img{
+    position: relative;
+    width: 30%;
+    margin-top: 23vh;
+}
